@@ -1,6 +1,6 @@
 Mako==0.7.0
 MarkupSafe==0.15
-bottle==0.10.9
+bottle==0.12.19
 anyjson==0.3.1
 gevent==0.13.7
 gevent-socketio
