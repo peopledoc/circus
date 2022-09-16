@@ -1,4 +1,4 @@
-Mako==0.7.0
+Mako==1.2.2
 MarkupSafe==0.15
 bottle==0.10.9
 anyjson==0.3.1
